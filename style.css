@@ -31,12 +31,12 @@ nav a:hover {
 
 }
 
-#header a{
+h3#header a{
   text-decoration: none;
   color: #868e96;
 font-size: 30px}
 
-#header a:hover{
+h3#header a:hover{
   text-decoration: underline;
 }
 
